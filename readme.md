@@ -5,9 +5,11 @@ App with cocos engine
 
 1. cocos2d-lua v2
 
-![](docs/cc2.gif)
+	![](docs/cc2.gif)
 
 2. cocos2d-lua v3
+
+	![](docs/cc3.gif)
 
 3. cocos2d-lua v4
 
