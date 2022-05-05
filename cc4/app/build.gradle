@@ -20,6 +20,8 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
+
     implementation 'com.android.support:appcompat-v7:28.+'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
     implementation 'com.android.support:design:28.+'
