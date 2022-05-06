@@ -15,6 +15,10 @@ App with cocos engine
 
 	![](docs/cc4.gif)
 
+4. cocos creator 3.4.2 (Android Studio 2021.1.0.0)
+
+	![](docs/ccc342.gif)
+
 # Tested
 Android Studio 3.2.1
 
